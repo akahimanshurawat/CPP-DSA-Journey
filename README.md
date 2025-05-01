@@ -31,7 +31,7 @@ Contribute: If you spot errors or have suggestions, feel free to open an issue o
 Code Together: Use the files as a guide to practice DSA in C++ and share your solutions.
 
 Feedback
-This is my first-ever coding journey shared publicly, so I’m eager to learn and improve. If you have feedback, corrections, or tips, please let me know via GitHub issues or connect with me on LinkedIn (link to be updated).
+This is my first-ever coding journey shared publicly, so I’m eager to learn and improve. If you have feedback, corrections, or tips, please let me know via GitHub issues or connect with me on LinkedIn.
 What’s Next?
 I’ll be adding more problems weekly, moving from basic algorithms to complex data structures like arrays, linked lists, trees, and beyond. Some folders will be packed with exercises, so dive in and practice as much as you can—consistency is the key to success! Stay tuned for updates, and let’s keep learning! 💻
 Connect
