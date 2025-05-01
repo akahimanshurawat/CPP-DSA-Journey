@@ -13,7 +13,7 @@ Practice Regularly: Work through all exercises in each folder. Repetition and pe
 
 How to Use This Repo
 
-Clone the Repository:git clone https://github.com/your-username/CPP-DSA-Journey.git
+Clone the Repository:git clone https://github.com/akahimanshurawat/CPP-DSA-Journey.git
 
 
 Explore the Code: Open the .cpp files in your favorite IDE or text editor.
@@ -37,7 +37,7 @@ I’ll be adding more problems weekly, moving from basic algorithms to complex d
 Connect
 
 📂 GitHub: CPP-DSA-Journey
-🌐 LinkedIn: Your Profile (update with your link)
+🌐 LinkedIn: https://www.linkedin.com/in/akahimanshurawat/
 #DSACpp #CodingJourney #LearnToCode
 
 Happy coding, and let’s build something amazing together! 🚀
