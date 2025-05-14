@@ -32,7 +32,7 @@ int firstOccur(int arr[], int size, int key) {
 }
 int main() {
     int arr[7]= {1,2,2,2,2,3,4};
-    int key = 3;
+    int key = 2;
     int firstHalf = firstOccur(arr, 7, key);
     int secondHalf = lastOccur(arr, 7, key);
     if (firstHalf == -1 || secondHalf == -1)
